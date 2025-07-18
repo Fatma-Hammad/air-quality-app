@@ -10,7 +10,7 @@ The web app is built using Streamlit and deployed on the web.
 - Features: Date, Pollutant Type, Category, State, Season
 
 ## Live App
-👉 [Click here to use the app](https://your-streamlit-link](https://air-quality-app-rv8dentpjnzv4fpt3prerq.streamlit.app/)
+👉 [Click here to use the app](https://air-quality-app-rv8dentpjnzv4fpt3prerq.streamlit.app/)
 
 ## Acknowledgment
 This project was completed as part of the [Epsilon AI Diploma Program](https://github.com/Epsilon-AI/)
